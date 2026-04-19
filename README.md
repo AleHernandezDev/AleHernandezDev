@@ -57,23 +57,23 @@
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
-| [🎵 Laberinto Rítmico](https://github.com/AleHernandez31/LaberintoRitmico) | `C++` `SFML` | Rhythm game developed in C++ and SFML |
-| [🎬 Movies API](https://github.com/AleHernandez31/Movies-API) | `Java` `Spring Boot` `JPA` `Swagger` | RESTful API for movies CRUD |
+| [🎵 Laberinto Rítmico](https://github.com/AleHernandezDev/LaberintoRitmico) | `C++` `SFML` | Rhythm game developed in C++ and SFML |
+| [🎬 Movies API](https://github.com/AleHernandezDev/Movies-API) | `Java` `Spring Boot` `JPA` `Swagger` | RESTful API for movies CRUD |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleHernandez31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AleHernandezDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleHernandez31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleHernandezDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleHernandez31&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6C37&currStreakLabel=C9D1D9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleHernandezDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6C37&currStreakLabel=C9D1D9" />
 </div>
 
 ---
